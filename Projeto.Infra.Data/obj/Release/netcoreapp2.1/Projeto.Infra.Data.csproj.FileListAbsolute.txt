@@ -1,0 +1,12 @@
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\bin\Release\netcoreapp2.1\Projeto.Infra.Data.deps.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\bin\Release\netcoreapp2.1\Projeto.Infra.Data.runtimeconfig.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\bin\Release\netcoreapp2.1\Projeto.Infra.Data.runtimeconfig.dev.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\bin\Release\netcoreapp2.1\Projeto.Infra.Data.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\bin\Release\netcoreapp2.1\Projeto.Infra.Data.pdb
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.AssemblyInfo.cs
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.pdb
+E:\WebDeveloper\Aula38\Aula38\Projeto.Infra.Data\obj\Release\netcoreapp2.1\Projeto.Infra.Data.genruntimeconfig.cache

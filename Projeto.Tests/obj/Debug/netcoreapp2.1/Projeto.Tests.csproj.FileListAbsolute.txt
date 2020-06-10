@@ -1,0 +1,128 @@
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.dev.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.genruntimeconfig.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CopyComplete
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 34 - 19.05.20\Aula34\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.dev.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CopyComplete
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.genruntimeconfig.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 35 - 21.05.20\Aula35\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.dev.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CopyComplete
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 36 - 26.05.20\Aula36\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.genruntimeconfig.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.dev.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CopyComplete
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite\Aula 37 - 28.05.20\Aula37\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.genruntimeconfig.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.deps.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.runtimeconfig.dev.json
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Tests.pdb
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Services.pdb
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csprojAssemblyReference.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CoreCompileInputs.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorAssemblyInfo.cs
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfoInputs.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.AssemblyInfo.cs
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.RazorTargetAssemblyInfo.cache
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.csproj.CopyComplete
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.dll
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.pdb
+E:\WebDeveloper\Aula38\Aula38\Projeto.Tests\obj\Debug\netcoreapp2.1\Projeto.Tests.genruntimeconfig.cache
